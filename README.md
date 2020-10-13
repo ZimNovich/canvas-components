@@ -9,7 +9,7 @@ Transforms JSX AST into regular JS AST
 
 We suggest you to load the module via `require` until the stabilization of ES modules in Node.js:
 ```javascript
-const transform = require("mxn-jsx-ast-transformer");
+const transform = require("jsx-ast-transformer");
 ```
 
 Now you can transform all JSX elements into JS calls like this:
