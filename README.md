@@ -1,6 +1,6 @@
-# jsx-ast-transformer
+# canvas-components
 
-Transforms JSX AST into regular JS AST
+HTML5 Canvas UI Component
 
 - ~5.5kb size
 - ~2.5kb minified + gzipped
