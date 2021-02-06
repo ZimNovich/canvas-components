@@ -1,6 +1,6 @@
-# canvas-components
+# mxn-canvas-ui
 
-HTML5 Canvas UI Component
+HTML5 Canvas based UI Components
 
 - ~5.5kb size
 - ~2.5kb minified + gzipped
