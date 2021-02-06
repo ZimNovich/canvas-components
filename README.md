@@ -9,7 +9,7 @@ HTML5 Canvas based UI Components
 
 We suggest you to load the module via `require` until the stabilization of ES modules in Node.js:
 ```javascript
-const transform = require("jsx-ast-transformer");
+const transform = require("mxn-canvas-ui");
 ```
 
 Now you can transform all JSX elements into JS calls like this:
